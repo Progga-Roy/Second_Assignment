@@ -188,3 +188,19 @@ height: 90%;
     margin-top: 100px;
     
 }
+.work-done-info{
+    text-align: center;
+    border: 1px solid #FF900E;
+border-radius: 8px;
+padding: 45px 40px;
+/* transform: rotate(90deg); */
+}
+.number{
+    margin-top:9px ;
+    font-size: 45px;
+}
+.name{
+    margin-top: 5px;
+    font-size: 20px;
+    color: #727272;
+}
