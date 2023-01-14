@@ -111,3 +111,80 @@ font-weight: 700;
     margin-top: 24px;
     color: #727272;
 }
+
+.experience-and-feature{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 1100px;
+    height: 600px;
+    grid-column-gap: 54px;
+    margin-top: 100px;
+   
+
+}
+.features-information{
+   
+}
+.detail-of-feature{
+    margin-top: 30px;
+    /* border-left: 4px solid #FF900E;
+    height: 98px; */
+    /* margin-top: 10px; */
+}
+#detail-of-feature{
+    margin-top: 20px;
+    width: 542px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+padding: 30px 30px;
+
+}
+#feature-title{
+color: #131313;
+font-size: 20px;
+}
+#feature-description{
+    color: #727272;
+    margin-top: 10px;
+}
+.architect-person img{
+    width: 100%;
+height: 90%;
+    border-radius: 8px;
+    
+}
+.experience-btn{
+    padding: 42px 42px;
+    background-color: #FF900E;
+    border-radius: 8px;
+    color: #FFF4E7;
+    border: 0;
+    position: relative;
+    top: 110px;
+    left: 560px;
+}
+.experience-btn .btn-title{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.btn-text{
+    margin-top: 5px;
+}
+
+.facts{
+    margin-top: 200px;
+}
+.facts-title{
+    font-size: 45px;
+    color: #131313;
+}
+.fact-des{
+    margin-top: 24px;
+}
+.work-done{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    
+}
