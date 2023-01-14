@@ -204,3 +204,23 @@ padding: 45px 40px;
     font-size: 20px;
     color: #727272;
 }
+.sponsor{
+    margin-top: 100px;
+     text-align: center;
+}
+.sponsor-title{
+font-size: 45px;
+color: #131313;
+}
+.sponsor-des{
+    margin-top: 24px;
+    color: #727272;
+}
+.sponsor-logos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.sponsor-logos img{
+    filter: grayscale(1);
+}
