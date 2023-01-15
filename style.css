@@ -141,8 +141,8 @@ span {
 
 /******************* experience and feature style end **************************/
 
-/******************* more feature types style start **************************/
 
+/******************* more feature types style start **************************/
 
 .experience-and-feature {
     display: grid;
@@ -188,6 +188,9 @@ span {
 #feature-description {
     color: #727272;
     margin-top: 10px;
+    /* white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; */
 }
 
 .architect-person {
@@ -422,7 +425,7 @@ textarea {
     }
 
     .header {
-        height: 800px
+        height: 815px
     }
 
     .logo {
@@ -460,6 +463,7 @@ textarea {
 
     .header-description {
         text-align: center;
+
 
     }
 
@@ -529,7 +533,7 @@ textarea {
     .feature-description {
         margin-left: 20px;
     }
-
+   
     .architect-person {
         margin-top: 30px;
     }
